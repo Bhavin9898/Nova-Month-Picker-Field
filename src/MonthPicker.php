@@ -1,6 +1,6 @@
 <?php
 
-namespace Bhavin\MonthPicker;
+namespace BhavinThummar\MonthPicker;
 
 use Laravel\Nova\Fields\Field;
 

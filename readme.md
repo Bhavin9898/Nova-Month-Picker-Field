@@ -8,13 +8,13 @@ This is a simple nova field type to introduce a month picker with the ability to
 
 ## Installation
 
-`composer require bhavin/month-picker`
+`composer require bhavin-thummar/month-picker`
 
 ## Usage
 
 ```php
 
-use Bhavin\MonthPicker\MonthPicker;
+use BhavinThummar\MonthPicker\MonthPicker;
 
 public function fields(Request $request)
 {

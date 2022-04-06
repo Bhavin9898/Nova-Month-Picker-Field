@@ -1,5 +1,5 @@
 {
-    "name": "bhavin/month-picker",
+    "name": "bhavin-thummar/month-picker",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Bhavin\\MonthPicker\\": "src/"
+            "BhavinThummar\\MonthPicker\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Bhavin\\MonthPicker\\FieldServiceProvider"
+                "BhavinThummar\\MonthPicker\\FieldServiceProvider"
             ]
         }
     },
