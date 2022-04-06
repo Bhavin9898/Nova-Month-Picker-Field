@@ -4,7 +4,7 @@ This is a simple nova field type to introduce a month picker with the ability to
 
 ## Form View
 
-![index view](https://imgur.com/a/qJEJVDj)
+![index view](https://i.imgur.com/KiF8Poi.png)
 
 ## Installation
 
