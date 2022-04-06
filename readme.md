@@ -39,5 +39,5 @@ public function fields(Request $request)
 
 ## License
 
-Go crazy, do what you like :)
+Feel free to contact me for any query.
 
